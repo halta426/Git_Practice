@@ -5,17 +5,30 @@ img{
     width: 100%;
 }
 .center{
+	background-color: white;
     margin: auto;
     width: 60%;
     padding: 10px;
 }
-body{
-    background-color: grey;
-}
+
 div{
     background-color: white;
 }
 h1{
     margin: auto;
     width: 20%;
+}
+
+#align{
+	margin: auto;
+	width: 60%;
+	padding: 10px;
+}
+
+#centering{
+	margin: auto;
+	width: 60%;
+}
+#centerFeedback{
+	margin-left: 40px;
 }
